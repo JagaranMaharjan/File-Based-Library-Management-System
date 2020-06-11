@@ -1,0 +1,18 @@
+Client Name :Jagaran
+Transaction Date :20190129-104745
+====================
+Book Name :Readmore Computer Wiz
+Author Name :Anil Pradhan
+Client Quantity :8
+Total Price($) :20.8
+====================
+Book Name :Information Techonology
+Author Name :Mathews Leon
+Client Quantity :5
+Total Price($) :17.5
+====================
+Total Price of book is ($) :38.3
+Client Name :Jagaran
+Transaction Date :20190129-104719
+====================
+Total Price of book is ($) :0

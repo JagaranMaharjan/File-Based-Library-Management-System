@@ -1,0 +1,9 @@
+Client Name :jagasran
+Transaction Date :20190409-130547
+====================
+Book Name :Computer Science
+Author Name :Reg Bhandari
+Client Quantity :20
+Total Price($) :40.0
+====================
+Total Price of book is ($) :40.0

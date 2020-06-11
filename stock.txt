@@ -1,0 +1,10 @@
+CompTIA certification,Scott Reeves,196,$20.0
+Programming With Python,John Smith,148,$1.5
+Computer Science-XII,Dipak Pudasaini,5,$2.5
+Readmore Computer Wiz,Anil Pradhan,77,$2.6
+Computer Science,Reg Bhandari,32,$2.0
+Dive Into Python,Mark Pilgrim,55,$4.0
+Information Techonology,Mathews Leon,46,$3.5
+Business Mathematics,K. K. Parajuli,11,$1.0
+Business Studies-I,Santosh Poudel,20,$2.5
+Business Studies-II,Santosh Poudel,10,$3.0
